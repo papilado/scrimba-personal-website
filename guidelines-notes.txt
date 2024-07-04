@@ -1,0 +1,23 @@
+****************************
+**  Minimum Requirements  **
+****************************
+
+	• Build it from scratch
+
+	• Use the following:
+		- Classes
+		- Flexbox
+		- Background-image
+		- Color Palette
+
+
+
+*********************
+**  Stretch Goals  **
+*********************
+
+	• Make it about your own hometown
+	• Use a different color palette
+	• Add a Google Font
+	• Use hover effect
+	• Add a whole new section
